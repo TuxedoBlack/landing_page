@@ -1,9 +1,22 @@
 .hero{
     background-color: #1f2937;
-    font-family: Roboto;  
+    font-family: Roboto;
+    color: #f9FAF8;  
+}
+.awesome{
+    font-size: 48px;
+    font-weight:800;
 }
 header {
 font-size: 24px;
 color: #f9FAF8;
+}
+.header{
+display: flex;
+}
+.links{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
 
 }
