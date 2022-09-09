@@ -17,8 +17,14 @@ color: #f9FAF8;
 display: flex;
 }
 .header{
+    margin: 15px;
 display: flex;
-justify-content: space-between;
+justify-content: space-around;
 }
-
+.link{
+    padding: 5px;
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
 
