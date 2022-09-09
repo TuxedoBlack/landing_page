@@ -1,3 +1,7 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
 .hero{
     background-color: #1f2937;
     font-family: Roboto;
@@ -17,6 +21,5 @@ display: flex;
 .links{
     display: flex;
     justify-content: flex-end;
-    flex-direction: row;
 
 }
