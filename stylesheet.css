@@ -65,23 +65,11 @@ gap: 200px;
     font-size: 24px;
     border-radius: 8px;
     color: #E5E7EB;
-
 }
 .placeholder{
    border-radius: 15px;
    height: 300px;
-   width: 600px:
 }
-.random_container{
-    display: flex;
-}
-.random_info{
-    display: flex;
-    justify-content: center;
-}
-.random_photo{
-    display: flex;
-    justify-content: space-between;
-}
+
 
 
