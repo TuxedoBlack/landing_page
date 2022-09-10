@@ -6,6 +6,7 @@ body{
     background-color: #1f2937;
     font-family: Roboto;
     color: #f9FAF8;  
+
 }
 .awesome{
     font-size: 48px;
@@ -16,6 +17,7 @@ font-size: 24px;
 color: #f9FAF8;
 display: flex;
 }
+
 .header{
     margin: 15px;
 display: flex;
@@ -29,6 +31,19 @@ justify-content: space-around;
 }
 .signup_container{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
+.forest{
+   border-radius: 15px;
+   height: 300px;
+   width: 600px:
+}
+.random_container{
+    display: flex;
+}
+.random_photo{
+    display: flex;
+    justify-content: space-between;
+}
+
 
