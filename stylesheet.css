@@ -59,7 +59,14 @@ gap: 200px;
     justify-content: space-around;
     align-items: center;
 }
-img{
+.button_1{
+    background-color: #3882F6;
+    font-size: 24px;
+    border-radius: 8px;
+    color: #E5E7EB;
+
+}
+.placeholder{
    border-radius: 15px;
    height: 300px;
    width: 600px:
