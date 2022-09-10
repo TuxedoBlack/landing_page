@@ -1,12 +1,13 @@
 body{
     display: flex;
     flex-direction: column;
+    height: 100vh;
 }
 .hero{
     background-color: #1f2937;
     font-family: Roboto;
     color: #f9FAF8;  
-
+    width: auto;
 }
 .awesome{
     font-size: 48px;
@@ -19,9 +20,9 @@ display: flex;
 }
 
 .header{
-    margin: 15px;
+margin: 15px;
 display: flex;
-justify-content: space-around;
+justify-content: space-between;
 }
 .link{
     padding: 5px;
