@@ -97,5 +97,18 @@ gap: 200px;
     width: 275px;
     border-radius: 8px;
 }
-
-
+/*for qoute section*/
+.quote{
+    margin-top: 100px;
+    background-color: #E5E7EB;
+    color: #1f2937;
+    font-size: 36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.author{
+    font-weight: bold;
+    align-self: flex-end;
+}
