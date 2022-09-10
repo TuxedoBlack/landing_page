@@ -42,10 +42,10 @@ justify-content: space-between;
 }
 .signup{
     margin: 0%;
-    height: 300px;
-    width: 300px;
     display: flex;
     flex-wrap: wrap;
+    width: 300px;
+    gap: 10px;
    
 }
 
