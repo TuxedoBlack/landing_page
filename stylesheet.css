@@ -10,6 +10,7 @@ body{
     width: auto;
 }
 .awesome{
+    margin: 5px;
     font-size: 48px;
     font-weight:800;
 }
@@ -34,7 +35,9 @@ justify-content: space-between;
     height: 300px;
     width: 600px;
     display: flex;
+    flex-wrap: wrap;
 }
+
 .signup_container{
     margin: 15px;
     display: flex;
