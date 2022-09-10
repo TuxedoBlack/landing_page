@@ -36,8 +36,9 @@ justify-content: space-between;
     display: flex;
 }
 .signup_container{
+    margin: 15px;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 img{
    border-radius: 15px;
