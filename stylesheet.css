@@ -30,11 +30,16 @@ justify-content: space-between;
     color: #E5E7EB;
     text-decoration: none;
 }
+.signup{
+    height: 300px;
+    width: 600px;
+    display: flex;
+}
 .signup_container{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
-.forest{
+img{
    border-radius: 15px;
    height: 300px;
    width: 600px:
