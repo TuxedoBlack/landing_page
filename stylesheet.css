@@ -113,3 +113,10 @@ gap: 200px;
     align-self: flex-end;
     margin-right: 150px;
 }
+/*for call to action section*/
+.calltoaction{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
