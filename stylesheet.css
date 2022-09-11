@@ -111,4 +111,5 @@ gap: 200px;
 .author{
     font-weight: bold;
     align-self: flex-end;
+    margin-right: 150px;
 }
