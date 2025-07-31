@@ -2,6 +2,32 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 .header{
+    height: 48px;
     background-color: #6A7581;
     color: #C3C7C6;
+    padding: 10px;
+    margin: auto;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.logo{
+    font-size: 24px;
+    font-weight: 900;
+}
+ul{
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 15px;
+}
+a{
+    text-decoration: none;
+    color: #C3C7C6;
+}
+.header-links{
+ font-size: 18px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
 }
