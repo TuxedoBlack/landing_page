@@ -127,3 +127,29 @@ button{
     font-size: 24px;
     font-weight: 900;
 }
+.container-four{
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.closing-container{
+    background-color: #6A7581;
+    width: 900px;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.closing-text{
+    padding-left: 50px;
+    color: #C3C7C6;
+    width: 500px;
+}
+button{
+    padding: 8px 16px;
+    border-radius: 5px;
+    background: #828B92;
+    border: 1px solid black;
+    color: white;
+}
