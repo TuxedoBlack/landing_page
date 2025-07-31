@@ -31,3 +31,42 @@ a{
  justify-content: center;
  align-items: center;
 }
+.container-one{
+    background-color: #6A7581;
+    color: #C3C7C6;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 0 15px 0;
+    padding-bottom: 15px;
+}
+.left-content{
+    display: flex;
+    flex-direction: column;
+    height: auto;
+    width: 500px;
+}
+h1{
+    font-size: 48px;
+    font-weight: 900;
+    margin: 0;
+}
+p{
+    font-size: 18px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5px;
+}
+button{
+    width: 100px;
+}
+.right-content{
+    height: 250px;
+    width: 500px;
+}
+.right-content-photo{
+    height: 100%;
+    width: 100%;
+    /*allows photo to fit container while maintaining aspect ratio*/
+    object-fit: cover;
+}
