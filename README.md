@@ -20,3 +20,5 @@ Process for developing this Landing Page:
 8. Review, correct any errors that come up during development.
 
 9. (Optional) continue to refine, develop landing page as new skills are learnt.
+
+**photo credits for Josh Hild, Marius Blanc, Natalie Bond & Carl Emil Jorgensen!
