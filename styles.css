@@ -153,3 +153,12 @@ button{
     border: 1px solid black;
     color: white;
 }
+.footer{
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #6A7581;
+    color: #C3C7C6;
+}
