@@ -1,7 +1,7 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
 }
-.header{
+header{
     height: 48px;
     background-color: #6A7581;
     color: #C3C7C6;
@@ -152,8 +152,9 @@ button{
     background: #828B92;
     border: 1px solid black;
     color: white;
+    cursor: pointer;
 }
-.footer{
+footer{
     padding: 25px;
     display: flex;
     justify-content: center;
